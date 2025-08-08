@@ -84,14 +84,7 @@
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=im-Ahmed&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-Ahmed&layout=compact&theme=tokyonight" width="47%" />
-</p>
-
----
 
 ## 🔗 Let's Connect
 
