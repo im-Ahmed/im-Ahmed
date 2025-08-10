@@ -98,7 +98,7 @@
 - 🔍 Advanced React Hooks & Optimization
 - 🧠 Data Structures and Algorithms
 - 🔒 Web Security Best Practices
-- 🌐 Backend Development with Node.js *(soon)*
+- 🌐 Backend Development in JavaScript
 
 ---
 
