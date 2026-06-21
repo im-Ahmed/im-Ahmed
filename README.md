@@ -4,7 +4,6 @@ MERN Stack Developer & Software Engineering Student
 
 I build full-stack web applications with React, Node.js, Express, and MongoDB. Currently a final-year Software Engineering student, combining academic foundations in OOP, DBMS, and Operating Systems with hands-on backend and frontend development.
 
-[Portfolio](https://ahmed-portfolio-wi3a.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ahmed-farooq-09a6b2304/)
 
 ---
 
